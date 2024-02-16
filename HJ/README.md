@@ -6,9 +6,9 @@
 
 <크롤링 사이트>
 
-[https://linkareer.com/cover-letter/search?id=31869&keyword=&organizationName=&page=1&role=%EB%8D%B0%EC%9D%B4%ED%84%B0&sort=RELEVANCE&tab=all)  
-(https://cafe.naver.com/sqlpd)  
-(https://cafe.naver.com/soojebi)
+([linkareer][https://linkareer.com/cover-letter/search?id=31869&keyword=&organizationName=&page=1&role=%EB%8D%B0%EC%9D%B4%ED%84%B0&sort=RELEVANCE&tab=all])  
+([데이터 포럼 카페]https://cafe.naver.com/sqlpd)  
+([IT 자격증 카페]https://cafe.naver.com/soojebi)
 
 
 ### (1) 크롤링 과정
