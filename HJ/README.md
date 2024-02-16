@@ -4,7 +4,7 @@
 ## 빅데이터 분야 취업 준비
 
 
-<크롤링 사이트>
+<크롤링 사이트>  
 https://linkareer.com/cover-letter/search?id=31869&keyword=&organizationName=&page=1&role=%EB%8D%B0%EC%9D%B4%ED%84%B0&sort=RELEVANCE&tab=all  
 https://cafe.naver.com/sqlpd  
 https://cafe.naver.com/soojebi
